@@ -21,7 +21,7 @@
 
 ## :computer: Стек:
 
-- ### :keyboard: Языки программирования:
+- ###  Языки программирования:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
@@ -36,7 +36,7 @@
 
 
 
-- ### :chart_with_upwards_trend: СУБД:
+- ###  СУБД:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://asset.brandfetch.io/idnezyZEJm/id2Qj2oZ1Q.svg" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@
 
 
 
-- ###  :bar_chart: Визуализация:
+- ###  Визуализация:
 <div>
   <img src="https://asset.brandfetch.io/id9sYMA_Im/idvYv8Hec2.svg" title="tableau" alt="tableau" width="40" height="40"/>&nbsp;
   <img src="https://asset.brandfetch.io/idmq1uuJbI/idWlbrYIGU.svg" title="redash" alt="redash" width="40" height="40"/>&nbsp;
@@ -53,14 +53,14 @@
 
 
 
-- ###  :repeat: Автоматизация:
+- ###   Автоматизация:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
 </div>
 
 
 
-- ###  :hammer_and_wrench: Другое:
+- ###   Другое:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/369070/ab-testing.svg" title="ab-testing" alt="ab-testing" width="40" height="40"/>&nbsp;
